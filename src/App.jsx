@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import heroImg from "./assets/pics/biadadari.jpg";
+import heroImg from "./assets/pics/biaaaa.jpg";
 import { Info } from "lucide-react";
 import { FaPlay } from "react-icons/fa6";
 import { useEffect, useState } from "react";
