@@ -51,10 +51,6 @@ function App() {
           >
             Caraku mengucapkan Selamat Ulang Tahun untukmu, sebelum kembali
             menghilang ke dalam keramaian.
-            Pernahkah kamu menyadari bahwa ada satu jiwa yang begitu terpaut
-            padamu? Seperti inilah caraku mengutarakan kekagumannya
-            sekaligus mengucapkan Selamat Ulang Tahun yang Ke-17 teruntuk
-            manusia berparas indah, Ia bernama Robiatul Adawiyah.
           </p>
           <p data-aos="fade-right" data-aos-duration="1300">
             Click "Play" to see Details
@@ -101,8 +97,8 @@ function App() {
           <h1 className="font-bold text-2xl">Happy Birthday, Biaaaa </h1>
           <p>Haloo Raaaaa~</p>
           <p>
-          Biaa, kamu lahir 17 tahun yang lalu, tepat di hari ini. Aku penasaran 
-          apakah kamu sudah lahir ke dunia saat ini. 
+          Kamu lahir 17 tahun yang lalu, tepat di hari ini. Aku penasaran 
+          apakah kamu sudah lahir ke dunia saat ini, 
           17 tahun yang lalu, di hari ini, aku belum lahir. <br />{" "}
             Tetapi aku merasa sangat bahagia dengan keberadaanmu.
             <br />
@@ -110,27 +106,30 @@ function App() {
             Dari banyaknya manusia yang mengucapkan Selamat Ulang Tahun untukmu,
             aku juga ingin menjadi salah satu diantaranya. <br />
             Selamat merayakan segala hal baik dalam hidupmu dengan penuh suka
-            cita yaa, semua tentangmu pantas untuk dirayakan. Semoga semesta
+            cita, semua tentangmu pantas untuk dirayakan. Semoga semesta
             selalu melindungi dimanapun kamu berada, dijauhkan dari segala lalai
             dalam beribadah dan berkenan mengabulkan segala inginmu. Aku disini
             hanya bisa mengurai doa-doa pada sang pencipta agar semua tentangmu
             selalu baik-baik saja dan selalu mengaminkan doa-doa baik yang kamu
             langitkan. <br />
-            <br /> Walau pertemuan kita hanya sebentar saja tetapi aku sangat bahagia mengetahui dirimu yang begitu indah.
-            Sejak pertama kali bertemu dengan dirimu, aku pikir hatiku tak pernah
-            lagi sama. Melihatmu tersenyum membuatku seperti manusia paling
-            beruntung di dunia. Aku selalu mengingat betapa bahagianya saat
-            pertama kali melihatmu sekaligus jatuh hati padamu. <br />
-            Terimakasih yaaaa, karna telah hadir dan menjadi bagian dari
-            perjalanan-ku yang panjang ini.
+            <br /> Walau pertemuan kita hanya sebentar saja tetapi aku sangat senang dengan
+            keberadaanmu dulu.
+            Saat pertama kali bertemu aku mungkin memang belum sadar akan keindahan dirimu,
+            tetapi lama kelaamaan aku mulai menyadarinya.Tetapi saat aku menyadarinya,aku merasa bersalah
+            ,aku merasa diriku tidak bisa
+            memperlakukan mu dengan baik yang membuat kita tidak saling berkomunukasi lagi.
+                Sebenarnya juga aku masih menunggu chat dari mu,diriku yang sekarang mungkin tidak akan berani
+                untuk mengkabari dirimu.Karna aku merasa bahwa aku akan mengganggu dirimu. <br />
+            Mungkin hanya segini yang bisa kusampaikan,maafkan diriku ini yang memang tidak pantas untuk dirimu.
+            Tapi bisakah kau membiarkanku untuk menunggu dirimu? walau aku tau hasilnya itu tidak akan bisa.
             
-            <br /> Terakhir, semoga dibahagiakanlah kamu tahun ini dan
-            selama-lamanyaaa~.
+            <br /> Terakhir dariku,Terimakasih karna telah membaca pesan ini sampai habis,aku akan mendoakanmu selalu
+            dan semoga di tahun ini dan seterusnya kamu dibahagiakan selalu dan dikabulkan keinginanmu.
           </p>
           <p>
-             &#128151;&#127802;
-            <br />i still waiting for <u>
-              </u>― jerrrr&#128060;
+             &#127802;
+            <br /> <u>
+              </u>― jerrrr&#128060; 
           </p>
         </div>
       </Modal>
@@ -139,7 +138,7 @@ function App() {
           <p className="font-semibold lg:text-base">
             Dibuat oleh{" "}
             <a
-              href="https://www.instagram.com/fienyphieer"
+              href="https://www.instagram.com/jer_alfinson/profilecard/?igsh=MnVvd2h4NThkeG5t"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white-600 hover:text-orange-500 transition duration-500 ease-in-out"
